@@ -1,0 +1,9 @@
+io.cucumber.junit.UndefinedStepException: The step "DeletePlace Payload" is undefined. You can implement it using the snippet(s) below:
+
+@Given("DeletePlace Payload")
+public void delete_place_payload() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
